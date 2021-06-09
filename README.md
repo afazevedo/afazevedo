@@ -1,5 +1,5 @@
 ### Olá! 
-Sou Amanda Ferreira de Azevedo, bacharel em Matemática Aplicada e Computacional pela UFRRJ (2018), mestre em Engenharia de Sistemas e Computação pela COPPE/UFRJ (2021). Atualmente, faço doutorado na mesma instituição e trabalho como bolsista na FGV Energia. Pesquiso nas áreas de otimização combinatória, ciência de dados e aprendizado de máquina.
+Sou Amanda Ferreira de Azevedo, bacharel em Matemática Aplicada e Computacional pela UFRRJ (2018), mestre em Engenharia de Sistemas e Computação pela COPPE/UFRJ (2021). Atualmente, faço doutorado na mesma instituição e trabalho como bolsista na FGV Energia, na área de ciência de dados. Minhas pesquisas envolvem as áreas de otimização combinatória, ciência de dados e aprendizado de máquina.
 <!-- **afazevedo/afazevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
