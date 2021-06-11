@@ -23,5 +23,11 @@ Here are some ideas to get you started:
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afazevedo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<p align='center'>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afazevedo&layout=compact&theme=dracula">
+</p>
+
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afazevedo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 
