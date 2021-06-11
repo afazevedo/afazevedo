@@ -22,3 +22,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afazevedo&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
