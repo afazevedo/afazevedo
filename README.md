@@ -1,6 +1,6 @@
 ### Hi! 😄
 
-My name is Amanda Ferreira de Azevedo, bachelor in Applied and Computational Mathematics (UFRRJ 2018), master in Systems Engineering and Computer Science (COPPE/UFRJ 2021). Currently doing PhD at the same institution and working at FGV Energia as data scientist. 
+My name is Amanda Ferreira de Azevedo,  Master degree in Systems Engineering and Computer Science from COPPE/UFRJ, focused on Optimization and Operations Research applied to Combinatorial Optimization, Bachelor degree in Applied and Computational Mathematics from UFRRJ (2018). Currently DSc. Candidate in Systems Engineering and Computer Science at COPPE/UFRJ and Power Sector Researcher at FGV Energia.
 
 📫 How to reach me: 
 <p align="center">
