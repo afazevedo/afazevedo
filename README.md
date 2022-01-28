@@ -1,8 +1,13 @@
-### Hi! 😄
+### Olá! 😄
 
-My name is Amanda Ferreira de Azevedo,  Master degree in Systems Engineering and Computer Science from COPPE/UFRJ, focused on Optimization and Operations Research applied to Combinatorial Optimization, Bachelor degree in Applied and Computational Mathematics from UFRRJ (2018). Currently DSc. Candidate in Systems Engineering and Computer Science at COPPE/UFRJ and Power Sector Researcher at FGV Energia.
+Me chamo Amanda Ferreira de Azevedo.
 
-📫 How to reach me: 
+- Mestre em Engenharia de Sistemas e Computação pela COPPE/UFRJ com ênfase em Otimização e Pesquisa Operacional aplicada a problemas de Otimização Combinatória (2021)
+- Bacharel em Matemática Aplicada e Computacional pela UFRRJ (2018)  [Saiba mais](https://cursos.ufrrj.br/grad/matematica/matematica-aplicada-e-computacional/)
+- Doutoranda em Engenharia de Sistemas e Computação pela COPPE/UFRJ
+- Pesquisadora bolsista na FGV Energia em projetos de P&D no Setor Elétrico, lidando com modelos de Otimização para Planejamento Energético e Otimização de Portfólios.
+
+📫 Como me encontrar: 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/amanda-ferreira-de-azevedo-45b697174/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
