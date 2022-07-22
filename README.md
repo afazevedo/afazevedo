@@ -2,11 +2,6 @@
 
 Me chamo Amanda Ferreira de Azevedo.
 
-- Mestre em Engenharia de Sistemas e Computação pela COPPE/UFRJ com ênfase em Otimização e Pesquisa Operacional aplicada a problemas de Otimização Combinatória (2021)
-- Bacharel em Matemática Aplicada e Computacional pela UFRRJ (2018)  [Saiba mais](https://cursos.ufrrj.br/grad/matematica/matematica-aplicada-e-computacional/)
-- Doutoranda em Engenharia de Sistemas e Computação pela COPPE/UFRJ
-- Pesquisadora bolsista na FGV Energia em projetos de P&D no Setor Elétrico, lidando com modelos de Otimização para Planejamento Energético e Otimização de Portfólios.
-
 📫 Como me encontrar: 
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/amanda-ferreira-de-azevedo-45b697174/">
