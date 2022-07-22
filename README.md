@@ -1,6 +1,6 @@
 ### Olá! 😄
 
-Me chamo Amanda Ferreira de Azevedo.
+Me chamo Amanda! Tudo bem?
 
 📫 Como me encontrar: 
 <p align="center">
