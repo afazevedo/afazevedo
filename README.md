@@ -27,7 +27,6 @@ atualmente doutoranda em Engenharia da Computação pela UFRJ/COPPE com ênfase 
 ## social && contact
 <p align="justify">
 <a href="https://www.linkedin.com/in/afazevedo"><img src="https://img.shields.io/badge/linkedin-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
-<a href="https://www.instagram.com/amandafazevedo"><img src="https://img.shields.io/badge/amandafazevedo-%230d1117.svg?style=for-the-badge&logo=Instagram&logoColor=#E4405F"/></a>
  <a href="mailto:afazevedo29@gmail.com?subject=Oi%20Amanda,%20te%20vi%20no%20Github"><img src="https://img.shields.io/badge/Email-%230d1117.svg?style=for-the-badge&logo=gmail&logoColor=#E4405F"/></a>
 </p>
 
