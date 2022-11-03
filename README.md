@@ -6,7 +6,7 @@
  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=afazevedo&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="57%" src="https://activity-graph.herokuapp.com/graph?username=afazevedo&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" /></a>
 </p>
 
-## about me in 30 Secs
+## about me
 <p align="justify">
 Sou bacharel em Matemática Aplicada e Computacional pela UFRRJ desde 2018, mestre em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização desde 2021 e 
 atualmente doutoranda em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização. Trabalho na FGV Energia desde 2021 como pesquisadora na área de planejamento energético. Gosto muito de resolver problemas e de dar aulas. Nas horas livres, gosto de jogar, ler livros e ver reality shows duvidosos.
