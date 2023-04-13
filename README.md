@@ -8,7 +8,7 @@
 ## about me
 <p align="justify">
 Sou bacharel em Matemática Aplicada e Computacional pela UFRRJ desde 2018, mestre em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização desde 2021 e 
-atualmente doutoranda em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização. Trabalho na FGV Energia desde 2021 como pesquisadora na área de planejamento energético. Gosto muito de resolver problemas e de dar aulas. Nas horas livres, gosto de jogar, ler livros e ver reality shows duvidosos.
+atualmente doutoranda em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização. Trabalho na FGV Energia desde 2021 como pesquisadora na área de planejamento energético. 
 </p>
 
  
