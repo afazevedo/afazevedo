@@ -1,4 +1,4 @@
-**Olá! 👋**
+**Hello! 👋**
 
 <p align="left">
 <img width="56%" src="https://github-readme-stats.vercel.app/api?username=afazevedo&hide=contribs,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/><img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=afazevedo&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
@@ -7,10 +7,14 @@
 
 ## about me
 <p align="justify">
-Sou bacharel em Matemática Aplicada e Computacional pela UFRRJ desde 2018, mestre em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização desde 2021 e 
-atualmente doutoranda em Engenharia da Computação pela UFRJ/COPPE com ênfase em Otimização. Trabalho na FGV Energia desde 2021 como pesquisadora na área de planejamento energético. 
-</p>
+I'm a passionate researcher with a focus on optimization and energy planning. I earned my Bachelor's degree in Applied and Computational Mathematics from UFRRJ and my Master's degree in Computer Engineering from UFRJ/COPPE, where I concentrated on optimization. Currently, I am pursuing my Ph.D. in Computer Engineering at UFRJ/COPPE, where I continue to focus on optimization.
 
+My expertise lies in utilizing mathematical models and algorithms to solve complex problems. As a researcher at FGV Energia, I have been working on several projects related to energy planning, including renewable energy integration, energy efficiency, and energy market analysis.
+
+In addition to my academic pursuits, I am passionate about programming and software development. I have experience with several programming languages such as Python, Julia, and C++, and I have used them to develop optimization models and tools. I am constantly exploring new technologies and learning new skills to enhance my capabilities.
+
+Thank you for taking the time to read my "about me" section. Please feel free to reach out if you have any questions or would like to connect.
+</p>
  
 ## techs && skills
 <p align="justify">
