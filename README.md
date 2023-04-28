@@ -9,9 +9,7 @@
 <p align="justify">
 I'm a passionate researcher with a focus on optimization and energy planning. I earned my Bachelor's degree in Applied and Computational Mathematics from UFRRJ and my Master's degree in Computer Engineering from UFRJ/COPPE, where I concentrated on optimization. Currently, I am pursuing my Ph.D. in Computer Engineering at UFRJ/COPPE, where I continue to focus on optimization.
 
-My expertise lies in utilizing mathematical models and algorithms to solve complex problems. As a researcher at FGV Energia, I have been working on several projects related to energy planning, including renewable energy integration, energy efficiency, and energy market analysis.
-
-In addition to my academic pursuits, I am passionate about programming and software development. I have experience with several programming languages such as Python, Julia, and C++, and I have used them to develop optimization models and tools. I am constantly exploring new technologies and learning new skills to enhance my capabilities.
+My expertise lies in utilizing mathematical models and algorithms to solve complex problems. As a researcher at FGV Energia, I have been working on several projects related to energy planning, including renewable energy integration, energy efficiency, and energy market analysis. I am constantly exploring new technologies and learning new skills to enhance my capabilities.
 
 Thank you for taking the time to read my "about me" section. Please feel free to reach out if you have any questions or would like to connect.
 </p>
